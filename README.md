@@ -8,6 +8,7 @@ This Repo is to document and assist with modifications to my Fusion3 F400-S. The
 |-|-|-|
 | BTT Octopus Max EZ + EZ2209 | 1 | https://biqu.equipment/products/bigtreetech-btt-octopusmax-ez-for-3d-printer?variant=40214298460258 |
 | Crossover Bracket | 1 | https://www.thingiverse.com/thing:5592406 |
+| Belt Bearing Retainers | 4 | https://www.thingiverse.com/thing:5592406 |
 | Spacers | 4 | https://www.thingiverse.com/thing:5592406 |
 | GT2 20 Toothless Idler Pulley | 6 | https://a.co/d/1YfOC2A |
 | 1.5mm Deep V Groove Guide Pulley | 4 | https://a.co/d/hR3PGlM |
