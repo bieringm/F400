@@ -3,7 +3,7 @@ Fusion3 F400-S Modifications/Build Log
 
 This Repo is to document and assist with modifications to my Fusion3 F400-S. The current plan is to upgrade from the stock Duet board to a BTT Octopus Max EZ with the EZ2209 Drivers and use the belt conversion from TFD42 on [thingiverse](https://www.thingiverse.com/thing:5592406)
 
-### BOM
+### BOM (Currently WIP)
 |Part|Qty|Link|
 |-|-|-|
 | BTT Octopus Max EZ + EZ2209 | 1 | https://biqu.equipment/products/bigtreetech-btt-octopusmax-ez-for-3d-printer?variant=40214298460258 |
