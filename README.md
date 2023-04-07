@@ -1,7 +1,7 @@
-# F400
+# F400-M
 Fusion3 F400-S Modifications/Build Log
 
-This Repo is to document and assist with modifications to my Fusion3 F400-S. The current plan is to upgrade from the stock Duet board to a BTT Octopus Max EZ with the EZ2209 Drivers and use the belt conversion from TFD42 on [thingiverse](https://www.thingiverse.com/thing:5592406). The printer will also be run using Klipper.
+This Repo is to document and assist with modifications to my Fusion3 F400-S, what I am calling a F400-M. The current plan is to upgrade from the stock Duet board to a BTT Octopus Max EZ with the EZ2209 Drivers and use the belt conversion from TFD42 on [thingiverse](https://www.thingiverse.com/thing:5592406). The printer will also be run using Klipper.
 
 ### BOM (Currently WIP)
 |Part|Qty|Link|
